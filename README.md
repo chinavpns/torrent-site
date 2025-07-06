@@ -20,7 +20,7 @@
 
 * <a href="https://wallvpn.com/go/strong-vpn/">StrongVPN</a>：老牌VPN，安全可靠，价格较便宜，每月3.97美金，支持支付宝付款！
 
-这两款翻墙工具在国内口碑很好，连接速度快，下载大文件时也不容易掉线，兼容所有常见设备，无论是PC还是手机都能用。实际测试下来，配合BT种子下载时体验非常顺畅。更多详情请查看《<a href="https://chinavpns.github.io/">科学上网指南</a>》或者《<a href="https://github.com/chinavpns/chinavpns.github.io">最好用的中国VPN</a>》。
+这两款翻墙工具在国内口碑都不错，不仅安全性很高，连接速度也很快。而且下载大文件时基本不会掉线，兼容所有常见设备，无论是PC还是手机都能用，还提供24小时在线客服和30天退款保障。更多详情请查看《<a href="https://chinavpns.github.io/">科学上网指南</a>》或者《<a href="https://github.com/chinavpns/chinavpns.github.io">最好用的中国VPN</a>》。
 
 ## 2025年最佳BT种子下载网站推荐
 
