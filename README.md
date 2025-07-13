@@ -1,8 +1,8 @@
 # <p align="center">2025年最好用的BT种子下载网站推荐</p>
 
-<p align="center">最近更新于：2025年7月9日</p>
+<p align="center">最近更新于：2025年7月13日</p>
 
-![最好用的BT种子下载网站推荐](https://raw.githubusercontent.com/chinavpns/torrent-site/refs/heads/main/image/BT%E7%A7%8D%E5%AD%90%E4%B8%8B%E8%BD%BD%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
+![最好用的BT种子下载网站推荐](https://raw.githubusercontent.com/chinavpns/torrent-site/refs/heads/main/image/BT%E7%A7%8D%E5%AD%90%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
 
 在国内，想找到一个既能打开、又能下载，还算安全的BT种子网站，难度一年比一年大。许多种子网站不是打不开，就是广告弹窗太多。更糟糕的是，不小心点到带病毒的假种子，电脑很容易“中招”。有些BT站点看起来还不错，但用不了多久就失效了；还有一些刚收藏没几天，又突然打不开。
 
