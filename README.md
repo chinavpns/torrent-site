@@ -694,7 +694,7 @@ BT下载门槛虽然不高，但如果想安全、顺利地获取所需的BT资�
 
 在现有的国内网络环境下，保护个人隐私同样非常重要。建议全程使用可靠的<a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN</a>，这不仅可以有效隐藏真实IP，防止被网络运营商或第三方监控，还能突破部分资源的访问限制，提升下载的成功率和速度。
 
-* **<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN</a>**：翻墙最稳定，速度最快，安全性高，每月4.99美金，30天免费试用！
+* **<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN</a>**：翻墙最稳定，速度最快，安全性高，每月3.49美金，30天免费试用！
 
 * **<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN</a>**：老牌VPN，安全可靠，价格较便宜，每月3.97美金，支持支付宝付款！
 
