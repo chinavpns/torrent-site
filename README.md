@@ -1,6 +1,6 @@
 # <p align="center">2025年最好用的BT种子下载网站推荐</p>
 
-<p align="center">最近更新于：2025年8月14日</p>
+<p align="center">最近更新于：2025年9月6日</p>
 
 ![最好用的BT种子下载网站推荐](https://raw.githubusercontent.com/chinavpns/torrent-site/refs/heads/main/image/BT%E7%A7%8D%E5%AD%90%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
 
@@ -18,7 +18,7 @@
 
 现在市面上的翻墙工具种类繁多，但如果是真正用来下载种子资源，还是要选择不限流量、速度稳定、支持P2P协议的产品。顺便提醒一句，千万别用所谓的“免费VPN”凑合，这类软件广告多、速度慢、隐私没有保障，很容易出问题。
 
-* **<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN</a>**：翻墙最稳定，速度最快，安全性高，每月4.99美金，30天免费试用！
+* **<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN</a>**：翻墙最稳定，速度最快，安全性高，每月3.49美金，30天免费试用！
 
 * **<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN</a>**：老牌VPN，安全可靠，价格较便宜，每月3.97美金，支持支付宝付款！
 
