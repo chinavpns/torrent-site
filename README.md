@@ -1,6 +1,6 @@
 # <p align="center">2025年最好用的BT种子下载网站推荐</p>
 
-<p align="center">最近更新于：2025年9月6日</p>
+<p align="center">最近更新于：2025年9月18日</p>
 
 ![最好用的BT种子下载网站推荐](https://raw.githubusercontent.com/chinavpns/torrent-site/refs/heads/main/image/BT%E7%A7%8D%E5%AD%90%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
 
